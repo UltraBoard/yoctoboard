@@ -1,0 +1,9 @@
+[submodule "yoctoboard-electronics"]
+	path = yoctoboard-electronics
+	url = git@github.com:UltraBoard/yoctoboard-electronics.git
+[submodule "yoctoboard-firmware"]
+	path = yoctoboard-firmware
+	url = git@github.com:UltraBoard/yoctoboard-firmware.git
+[submodule "yoctoboard-cad"]
+	path = yoctoboard-cad
+	url = git@github.com:UltraBoard/yoctoboard-cad.git
